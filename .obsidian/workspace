@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "87404917c623a095",
+    "type": "split",
+    "children": [
+      {
+        "id": "c623c937b92932b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ReadMe.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "896ed5f62377cb5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e65d0fc83919a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d7211195b536ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "935a359063c28bdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bc9e59c8bf50633",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d28c8d511ba3548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565070d25b1a1e57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ReadMe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c623c937b92932b5",
+  "lastOpenFiles": [
+    "ReadMe.md",
+    "Back-end/sql-commands.md",
+    "Front-end/front-end.md",
+    "Untitled.md"
+  ]
+}
