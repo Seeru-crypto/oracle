@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,15 +84,15 @@
   },
   "active": "8646501f4919f3da",
   "lastOpenFiles": [
+    "general admin/general-admin.md",
+    "general admin/docker-commands.md",
+    "Back-end/back-end.md",
+    "oracle/Back-end/Back-end md.md",
+    "Database/sql-commands.md",
+    "Front-end/front-end.md",
+    "ReadMe.md",
     "kaardid/maps.md",
     "kaardid/Naissaare kaart.pdf",
-    "kaardid/Alavere - Raasiku 1.pdf",
-    "kaardid/Aegviidu - alavere 1.pdf",
-    "Database/sql-commands.md",
-    "Front-end/react.md",
-    "Front-end/json-example.md",
-    "Front-end/front-end.md",
-    "general admin/docker-commands.md",
-    "general admin/general-admin.md"
+    "kaardid/Alavere - Raasiku 1.pdf"
   ]
 }
