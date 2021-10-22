@@ -12,5 +12,5 @@
 
 
 #### Links:
-- [[General admin md]]
+- [[general-admin]]
 
