@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b215cc275571095",
+        "id": "8646501f4919f3da",
         "type": "leaf",
-        "dimension": 75.32051282051282,
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "8646501f4919f3da",
-        "type": "leaf",
-        "dimension": 24.679487179487182,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
         }
       }
     ],
@@ -119,14 +83,15 @@
   },
   "active": "8646501f4919f3da",
   "lastOpenFiles": [
-    "general admin/docker commands.md",
-    "ReadMe.md",
-    "general admin/General admin md.md",
-    "Hardware/Hardware md.md",
-    "general admin/VC shortcuts.md",
-    "general admin/terminal cmd´s.md",
-    "Front-end/front-end md.md",
-    "Back-end/sql-commands.md",
-    "Back-end/Back-end md.md"
+    "kaardid/maps.md",
+    "kaardid/Naissaare kaart.pdf",
+    "kaardid/Alavere - Raasiku 1.pdf",
+    "kaardid/Aegviidu - alavere 1.pdf",
+    "Database/sql-commands.md",
+    "Front-end/react.md",
+    "Front-end/json-example.md",
+    "Front-end/front-end.md",
+    "general admin/docker-commands.md",
+    "general admin/general-admin.md"
   ]
 }

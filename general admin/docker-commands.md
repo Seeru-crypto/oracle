@@ -83,6 +83,37 @@ you can also run docker run -d -p 3000:3000 <ImageName>:<ImageVersion>
 
 ### Docker compose vs Docker build-run
 
+A dcoker compose file recreates the image as well, making restarting containers extremely easy
+
+
+    Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
+    
+    Using Compose is basically a three-step process:
+    
+    Define your app’s environment with a Dockerfile so it can be reproduced anywhere.
+    
+    Define the services that make up your app in docker-compose.yml so they can be run together in an isolated environment.
+    
+    Run docker compose up and the Docker compose command starts and runs your entire app. You can alternatively run docker-compose up using the docker-compose binary.
+
+A docker-compose.yml looks like this:
+
+
+        version: "3.9"  # optional since v1.27.0
+        services:
+        web:
+        build: .
+        ports:
+        - "5000:5000"
+        volumes:
+        - .:/code
+        - logvolume01:/var/log
+        links:
+        - redis
+        redis:
+        image: redis
+        volumes:
+        logvolume01: {}
 
 
 #### Links:
