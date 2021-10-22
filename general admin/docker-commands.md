@@ -50,37 +50,44 @@ you can also run docker run -d -p 3000:3000 <ImageName>:<ImageVersion>
 
 ## Exotic commands
 
-- docker image ls
-    - List your images
-- docker ps -a
-    - List all existing containers (running and not running).
-- docker logs [container name]
-    - Display logs of a container.
+### View docker content:
 
+    - docker image ls
+        - List your images
+    - docker ps -a
+        - List all existing containers (running and not running).
+    - docker logs [container name]
+        - Display logs of a container.
+### Stop containers:
 
-- docker stop [container name]
-    - Stop a specific container.
-
-- docker stop $(docker ps -a -q)
-    - Stop all running containers.
+    - docker stop [container name]
+        - Stop a specific container.
     
+    - docker stop $(docker ps -a -q)
+        - Stop all running containers.
+### Delete docker content:
 
-- docker image rm [image name]
-    - Delete a specific image.
+
+    - docker image rm [image name]
+        - Delete a specific image.
+        
+    - docker image rm $(docker images -a -q)
+        - Delete all existing images.
     
-- docker image rm $(docker images -a -q)
-    - Delete all existing images.
-
-- docker rm [container name]
-    - Delete a specific container (only if stopped).
-
-- docker rm $(docker ps -a -q)
-    - Delete all containers (only if stopped).
+    - docker rm [container name]
+        - Delete a specific container (only if stopped).
+    
+    - docker rm $(docker ps -a -q)
+        - Delete all containers (only if stopped).
 
 
+### Docker compose vs Docker build-run
 
 
 
 #### Links:
 - [[general-admin]]
+- [[Dockerfile]]
+- [[docker-compose.yml]]
+
 
