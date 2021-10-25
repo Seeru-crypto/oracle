@@ -6,3 +6,31 @@ with Depenecies - Spring web, which enables the use of RESTful services
 [[back-end.md]]
 
 to create recurring jobs use quartz module!
+
+Maven on LEGACY
+
+
+
+
+
+Gradle on uus lahe
+Peab alati JAR´´ga
+
+
+
+Spring web võimaldab REST operatsioone
+
+DB Driverid - Elasticsearch
+
+Lombok teeb automaatselt constructorid
+
+REST reposetory - autogeneb CRUD operatsioonid
+
+Lõpus võiks kasutada JWT authenticationit
+
+Spring security - Saan lihtsa basic audentimise paika
+
+
+
+https://spring.io/projects/spring-boot
+
