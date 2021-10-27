@@ -23,8 +23,6 @@ Et kontrollida kas ja mis versioonid:
 Et näha kõiki installitud mooduleid:
   1. pkgutil --pkgs
 
-
-
 To activate a virtualEnv:
 
   cd /Users/fred-andree/Documents/Repo/RasaTest
