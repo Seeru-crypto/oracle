@@ -1,19 +1,17 @@
 # Elasticsearch
-Is a NoSQL database, where all entries can be different and are referred to docs. 
-Docs are placed in indexes(tables). 
 
-It can be hosted on main computer or on a dockerized container. 
+Is a NoSQL database, where all entries can be different and are referred to docs.
+Docs are placed in indexes(tables).
+
+It can be hosted on main computer or on a dockerized container.
 
 ## To install on computer
-
-
 
 ## To use a dockerized container
 
 ### Build a image
 
 ### run an image
-
 
 To pull a elasticsearch docker image: - docker pull docker.elastic.co/elasticsearch/elasticsearch:7.15.1
 
