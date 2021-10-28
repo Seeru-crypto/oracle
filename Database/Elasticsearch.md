@@ -5,6 +5,8 @@ Docs are placed in indexes(tables).
 
 It can be hosted on main computer or on a dockerized container.
 
+For development it is adviced to use a docker container, when in production, ..
+
 ## To install on computer
 
 ## To use a dockerized container

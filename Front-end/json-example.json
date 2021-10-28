@@ -1,10 +1,10 @@
 {
   "Mihkael": {
     "age": 30,
-    "hair color": "red"
+    "hairColor": "red"
   },
   "Elisa": {
     "age": 10,
-    "hair color": "blonde"
+    "hairColor": "blonde"
   }
 }
