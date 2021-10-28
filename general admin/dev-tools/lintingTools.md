@@ -1,3 +1,13 @@
+# Linting
+
+## Desc
+
+Linting tools are used to "clean" code from common mistakes and enforce clean code standards. 
+
+
+
+## useful links
+
 using eslint in [VSC](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code)
 
 
