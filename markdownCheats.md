@@ -6,7 +6,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 
 
-
+***
 ## Direct text edit
 
 
@@ -16,7 +16,7 @@ Using Markdown is different than using a WYSIWYG editor. In an application like 
 
 ~~Strikethrough text~~
 
-_Italic text_
+*Italic text*
 
 
 - Bullet 1
@@ -38,7 +38,7 @@ _Italic text_
 [ ] Todo item 1
 
 [x] done item
-
+***
 ## Definyning  code
 
 > Quoted text.
@@ -71,7 +71,7 @@ in a block
     border: none;
 }
 ```
-
+***
 ## dynamic functions
 This is a link which is referenced below [a link][1] and another [link][2].
 
@@ -81,5 +81,23 @@ This is a link which is referenced below [a link][1] and another [link][2].
 
 This is a [link](http://example.com "Title"), which is defined locally
 
+<https://www.markdownguide.org>
 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
