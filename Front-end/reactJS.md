@@ -48,6 +48,9 @@ React is a javascrpt library, used for front-end development
 [filtering arrays](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples)
 
 
+
+[Use React and Spring Boot to Build a Simple CRUD App](https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot)
+
 #### links
 [[front-end]]
 [[lintingTools]]

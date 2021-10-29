@@ -4,7 +4,10 @@
 
 Linting tools are used to "clean" code from common mistakes and enforce clean code standards. 
 
-
+## Naming Conventions
+    JSON element names
+    Java method and class names
+    Database 
 
 ## useful links
 
