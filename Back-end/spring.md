@@ -9,10 +9,12 @@ The easiest way to setup spring is to generate an empty project using [initializ
 There are several different options to choose from here´s a explanation on a few of them:
 
 - Gradle is the new and better Maven
+
 - always make projects as .jar
+
 - Spring web võimaldab REST operatsioone
 
-- DB Driverid - Elasticsearch
+- DB Driverid - Elasticsearch / MongoDb
 
 - Lombok teeb automaatselt constructorid
 
