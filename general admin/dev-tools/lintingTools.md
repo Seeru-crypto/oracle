@@ -24,7 +24,14 @@ react eslint [plugin](https://www.npmjs.com/package/eslint-plugin-react)
 testing playground chrome plugin can be used to easily create front-end unit tests
 
 
+
+## Eslint
+[List of Eslint rules](https://eslint.org/docs/rules/)
+
+
 Example of eslint JSON config file
+
+
 ```
 {
     "root": true,
@@ -93,3 +100,30 @@ module.exports = {
   },
 };
 ```
+
+
+## Prettier
+
+[Getting started](https://prettier.io/docs/en/install.html)
+
+prettier Ignore file example. '.prettierignore'
+```
+# Ignore artifacts:
+build
+coverage
+```
+
+
+
+[config file options](https://prettier.io/docs/en/options.html)
+
+Prettier config example. '.prettierrc.json'
+```
+{
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": false,
+  "singleQuote": true
+}
+```
+
