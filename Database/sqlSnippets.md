@@ -1,4 +1,10 @@
+# SQL snippets
 
+Created SQL snippets
+***
+####  Net_store_SQL
+Creating a Database schema
+```
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS passwords CASCADE;
 DROP TABLE IF EXISTS items CASCADE;
@@ -60,3 +66,19 @@ CREATE INDEX fkIdx_41 ON storage
 (
  user_id
 );
+```
+***
+#### rekursiivne_otsing
+
+```
+WITH RECURSIVE rec (id) as
+   (
+     SELECT storage.id, storage.storage_name, storage.date_added, storage.date_modified, storage.parent_id, storage.user_id
+      from storage where parent_id=1
+     UNION ALL
+     SELECT storage.id, storage.storage_name, storage.date_added, storage.date_modified, storage.parent_id, storage.user_id
+     FROM rec, storage where storage.parent_id = rec.id
+     )
+   SELECT *
+   FROM rec;
+```
