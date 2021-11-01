@@ -47,6 +47,7 @@ Using Markdown is different than using a WYSIWYG editor. In an application like 
 
 > * Quoted
 > * List
+    
 
     Begin each line with
     two spaces or more to
