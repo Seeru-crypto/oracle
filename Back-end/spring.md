@@ -18,10 +18,12 @@ There are several different options to choose from here´s a explanation on a fe
 
 - Lombok teeb automaatselt constructorid
 
-- REST reposetory - autogeneb CRUD operatsioonid
+- REST repository - autogeneb CRUD operatsioonid
+
+- Quartz - to create recurring jobs
+
 
 - Lõpus võiks kasutada JWT authenticationit
-- to create recurring jobs use quartz module!
 - The newer the java version the better.
 - Spring security - Saan lihtsa basic audentimise paika
 
