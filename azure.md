@@ -6,18 +6,20 @@
 
 |  | Developer Associate | DevOps Expert | Architect Expert |
 | -----------  | ----------- | ----------- |  ----------- |
-| Eeldus | AZ-204 eksam | Azure Developer  või Azure Administrator (AZ-104) Associate sertifikaat **ja** AZ-400 eksam | AZ-303 ja AZ-304 eksamid või AZ-303 ja AZ-305 eksamid või Azure Administrator Associate ja AZ-305 eksam | 
+| Eeldus | Developing Solutions for Microsoft Azure([AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204))| Azure Developer või Azure Administrator (AZ-104) Associate sertifikaat **ja**  <br> AZ-400 | AZ-303 ja AZ-304 eksamid või <br> AZ-303 ja AZ-305 eksamid või <br> Azure Administrator Associate ja AZ-305 eksam | 
 | Sisu  | [link1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ) | [link2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84) | [link3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUW)  | 
 
 Lisaks:
-[Data engineering](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
 
+- [Data engineering](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+
+- [Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
 
 
 
 - vähemalt võiks olla Developer/ accosiate tase. Mis on pmst Basic tase (vt Basic kursust)
-- võrdlemisi tehniline eksam ja sisu, isegi basic tase
-- Igasugune eelnev kogemus tuleb kasuks ning tava olukorras eeldavad aasta jagu kogemust. 
+  - Sellegi poolest on tegemist võrdlemisi tehniline sisuga ja eksamiga.
+  - Igasugune eelnev kogemus tuleb kasuks ning tava olukorras eeldavad aasta jagu kogemust. 
 
 ## Kursuste läbimine:
 - registreerimise hetkest on 10 nädalat. Et kursus läbi teha.
@@ -89,15 +91,15 @@ Microsoft pakub spetsialiseerumisi ettevõtetele, kus on kombinatsioon üleval o
 - Measure-up testile registreerimiseks saab logida sisse Partner accountiga (Net Groupi konto) ja sisestada Registry Key tabil emailile tulnud võtme (vt täpsemalt FAQ)
 
 ### Lingid:
-- FAQ ja juhendid protsessi osas
-- Kõik eksamid
-- Koonvaade eksamite kohta
-- Learning paths kirjeldused (slaidid) 
-- Azure Developer Associate sertifikaadi tutvustus ja info
-- DevOps Engineer Expert sertifikaadi tutvustus ja info
-- Azure Solutions Architect Expert
-- Registreerimine
-- Online kursused Skill Academys
-- Online moodulid MS Learn-is
-- Measure-up testid
-- Eksamile registreerumise juhend (pole kindel, kas meie peame seda järgima)
+- [FAQ ja juhendid protsessi osas](https://partner.skills-academy.com/frequently-asked-questions/)
+- [Kõik eksamid](https://docs.microsoft.com/en-us/learn/certifications/browse/)
+- [Koonvaade eksamite kohta](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
+- [Learning paths kirjeldused (slaidid)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J5ea) 
+- [Azure Developer Associate sertifikaadi tutvustus ja info](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+- [DevOps Engineer Expert sertifikaadi tutvustus ja info]()
+- [Azure Solutions Architect Expert]()
+- [Registreerimine](https://partner.skills-academy.com/program/)
+- [Online kursused Skill Academys](https://partner.skills-academy.com/program/)
+- [Online moodulid MS Learn-is]()
+- [Measure-up testid]()
+- [Eksamile registreerumise juhend (pole kindel, kas meie peame seda järgima)](https://docs.microsoft.com/en-us/learn/certifications/register-schedule-exam)
