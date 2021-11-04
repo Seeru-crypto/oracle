@@ -11,21 +11,23 @@ There are several different options to choose from here´s a explanation on a fe
 - Gradle is the new and better Maven
 
 - always make projects as .jar
-
-- Spring web võimaldab REST operatsioone
-
-- DB Driverid - Elasticsearch / MongoDb
-
-- Lombok teeb automaatselt constructorid
-
-- REST repository - autogeneb CRUD operatsioonid
-
-- Quartz - to create recurring jobs
-
-
 - Lõpus võiks kasutada JWT authenticationit
 - The newer the java version the better.
+
+
+## Dependencies
+- Spring web: Võimaldab Springil kasutada REST operatsioone
+
+- DB Driverid: Elasticsearch / MongoDb
+
+- Lombok: teeb automaatselt constructorid ja aitab vähendada korduvat koodi
+
+- REST repository: autogeneb REST endpointid, repode alusel
+
+- Quartz: to create recurring jobs
+
 - Spring security - Saan lihtsa basic audentimise paika
+
 
 ## pre-requiste
 
@@ -33,9 +35,12 @@ There are several different options to choose from here´s a explanation on a fe
 
 ## Useful commands
 
-- cc
+- 
+
 
 #### links
 
 - For more info on [spring](https://spring.io/projects/spring-boot)
   [[back-end.md]]
+- [Spring.io](https://spring.io/guides) is extremely useful for examples and How-To guides. 
+

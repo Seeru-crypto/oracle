@@ -15,8 +15,6 @@ Lisaks:
 
 - [Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
 
-
-
 - vähemalt võiks olla Developer/ accosiate tase. Mis on pmst Basic tase (vt Basic kursust)
   - Sellegi poolest on tegemist võrdlemisi tehniline sisuga ja eksamiga.
   - Igasugune eelnev kogemus tuleb kasuks ning tava olukorras eeldavad aasta jagu kogemust. 
