@@ -1,16 +1,22 @@
 # Tent porperties
 
+Üldiselt: - Vältima peab Polüester materjali, kuna on raske ja odav - väldi vaiasid mis on tehtud fiberglass'st.
+
 ## 3 season
+
+3 puhul on mõeldud suvi, kevad, sügis.
+Hea hingavus ja vee pidanus aga ei kannata raskust (lume raskus nt) ja sees hakkab külm, kuna tuulepidavus ei suur... kuna hea hingavus.
+Sisemine kiht peab olema Õhuke võrk.
 
 ## 4 season
 
 Telgi omadused
 
--   ühe kihiga, sitt jama kus tuulutust pole ja niiskus jääb sisse
-    3 v 4 ssn 4 puhul on ehitus palju tugevam, kui raske lumi peale kukub. Halvem õhu vahetus selleks et rohkem soojust sees hoida. Kui hankida siis vaiad peaksid olema kaetud et vältida jäätumist. Sisemine kiht on paks riie
+On mõeldud neljandaks hooajaks ehk talveks.
+Ehitus on palju tugevam, kuna kui lund sajab siis konstruktsioon peab vastu pidavam (vaiad paksemad ja vahest kahe kordsed). Halvem õhu vahetus, selleks et rohkem soojust paremini sees hoida (suvel aga küpsed sama telgiga). Kui hankida siis kinnitades vaiad telgi külge, peaksid olema riide käisega kaetud, et vältida jäätumist. Võrreldes 3 season telkidega on sisemine kiht ka paksem riie. Soojuse tõttu.
 
-3 puhul on mõeldud suvi, kevad, sügis.
-Hea tuulutus ja vee pidanus aga ei kannata raskust ja sees hakkab külm. Sisemine kiht peab olema Õhuke võrk.
+Kasulikud Lingid:
 
-Vältima peab
-Polüester materjali ja vaiasid mis on tehtud fiberglass'st
+-   [Everything You Need to Know About Tents](https://www.youtube.com/watch?v=TCf6Kp-u6OU&list=LL&index=1&t=201s)
+-   [LiteFighter 1](https://www.youtube.com/watch?v=cazdzZVejOk&list=LL&index=4)
+-   [Fjallraven Abikso View 2](https://www.youtube.com/watch?v=GhafL0X5onI&list=LL&index=3)
