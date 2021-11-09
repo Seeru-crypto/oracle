@@ -76,6 +76,8 @@ in a block
 ## dynamic functions
 This is a link which is referenced below [a link][1] and another [link][2].
 
+if you want to link to another markdown file [link to other file](ReadME.md)
+
 [1]: http://example.com/ "Title"
 [2]: http://example.org/ "Title"
 
