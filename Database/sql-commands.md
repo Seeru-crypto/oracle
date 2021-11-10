@@ -1,4 +1,13 @@
 
+
+
+
+Drop commands:
+```
+DROP TABLE IF EXISTS newer_test_table;
+DROP USER IF EXISTS newer_user
+```
+
 User Methods:
 Create a user with a password and he cannot create his own DB´ or additional users:
 
@@ -54,8 +63,8 @@ Log:
 To remove said privilige the following cmd has to be run.
 REVOKE ALL ON schema public FROM public;
 
-          # If a another user beside superuser has to create objects in schema, then grant the privilige via
-                  GRANT ALL ON schema public TO foo_user;
+  **If a another user beside superuser has to create objects in schema, then grant the privilige via 
+  GRANT ALL ON schema public TO foo_user;**
 
 For testing:
 
@@ -65,26 +74,7 @@ For testing:
         INSERT INTO test_Table VALUES ('Sam', 18);
         SELECT * from test_Table;
 
-Creating viewer user and role:
-Ver1
-CREATE USER PowerBi WITH PASSWORD 'G5xHGVPFFy2XHAam';
-CREATE ROLE viewer;
-GRANT CONNECT ON DATABASE riigibot TO viewer;
-GRANT USAGE ON SCHEMA public to viewer;
-GRANT SELECT ON ALL TABLES IN SCHEMA public to viewer;
-ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON TABLES TO viewer
-GRANT viewer TO powerbi
-Ver 2
-CREATE USER PowerBi WITH PASSWORD 'G5xHGVPFFy2XHAam';
-CREATE ROLE viewer;
-GRANT CONNECT ON DATABASE riigibot TO viewer;
-GRANT USAGE ON SCHEMA public to viewer;
-GRANT SELECT ON ALL TABLES IN SCHEMA public to viewer;
-GRANT viewer TO powerbi
 
-
-DROP TABLE IF EXISTS newer_test_table;
-DROP USER IF EXISTS newer_user
 
 SELECT * FROM test_Table
 DELETE FROM test_Table WHERE age = 18;
@@ -93,42 +83,5 @@ CREATE TABLE newer_test_table (name varchar(255), age int);
 CREATE USER newer_user WITH PASSWORD '1234';
 Create ROLE newer_role;
 CREATE DATABASE newer_database with OWNER = powerbi
-
-drop table newer_test_table;
-drop user newer_user;
-
-
-
-Creating admin user and role;
-
-
-    Ver1
-          CREATE ROLE admin WITH SUPERUSER;
-          CREATE USER admfredoj WITH PASSWORD 'b3xadF254HhTrcYN' CREATEROLE;
-          GRANT CONNECT ON DATABASE riigibot TO admin;
-          GRANT USAGE ON SCHEMA public to admin;
-          GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public to admin;
-          GRANT admin to admfredoj;
-
-
-Adding password to existing user:
-
-      ALTER USER riigibot WITH password 'tHh7RYx87kDnH2ep'
-    
-    
-      for testing:
-              update chat
-              set session_id = ''
-              WHERE id = 2201
-
-
-
-psql -h localhost -p 9876 -U riigibot riigibot
-tHh7RYx87kDnH2ep
-
-DB_PASSWORD
-
-ping 127.0.0.1:9876
-
 
 [[Back-end md]]

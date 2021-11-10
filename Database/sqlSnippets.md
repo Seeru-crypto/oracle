@@ -82,3 +82,24 @@ WITH RECURSIVE rec (id) as
    SELECT *
    FROM rec;
 ```
+***
+#### Creating viewer user and role:
+```
+CREATE USER PowerBi WITH PASSWORD 'G5xHGVPFFy2XHAam';
+CREATE ROLE viewer;
+GRANT CONNECT ON DATABASE riigibot TO viewer;
+GRANT USAGE ON SCHEMA public to viewer;
+GRANT SELECT ON ALL TABLES IN SCHEMA public to viewer;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON TABLES TO viewer
+GRANT viewer TO powerbi
+```
+***
+#### Creating admin user and role;
+```
+CREATE ROLE admin WITH SUPERUSER;
+CREATE USER admfredoj WITH PASSWORD 'b3xadF254HhTrcYN' CREATEROLE;
+GRANT CONNECT ON DATABASE riigibot TO admin;
+GRANT USAGE ON SCHEMA public to admin;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public to admin;
+GRANT admin to admfredoj;
+```

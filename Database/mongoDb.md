@@ -45,3 +45,9 @@ and run it
 To use mongoDb´s a connection string has to be provided. More [info](https://docs.mongodb.com/manual/reference/connection-string/)
 
 `mongodb://localhost:37017`
+
+
+
+
+
+## Out of the box Mongo db commands
