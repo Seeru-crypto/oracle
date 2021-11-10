@@ -7,7 +7,7 @@ Tollides 23", 31" jne
 
 
 | diagonaal | kõrgus x laius (cm)|
-| ----------- | ----------- |
+| --- | --- |
 | 23 | Title |
 | 27 | Text |
 | 30 | Text |

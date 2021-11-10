@@ -5,7 +5,7 @@
 ## Kursuste tasemed
 
 |  | Developer Associate | DevOps Expert | Architect Expert |
-| -----------  | ----------- | ----------- |  ----------- |
+| ---  | --- | --- |  --- |
 | Eeldus | Developing Solutions for Microsoft Azure([AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204))| Azure Developer või Azure Administrator (AZ-104) Associate sertifikaat **ja**  <br> AZ-400 | AZ-303 ja AZ-304 eksamid või <br> AZ-303 ja AZ-305 eksamid või <br> Azure Administrator Associate ja AZ-305 eksam | 
 | Sisu  | [link1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ) | [link2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84) | [link3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUW)  | 
 

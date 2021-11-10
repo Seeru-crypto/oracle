@@ -88,7 +88,7 @@ This is a [link](http://example.com "Title"), which is defined locally
 
 
 | Syntax | Description |
-| ----------- | ----------- |
+| --- | --- |
 | Header | Title |
 | Paragraph | Text |
 
