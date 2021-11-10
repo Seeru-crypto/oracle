@@ -39,7 +39,7 @@ Using Markdown is different than using a WYSIWYG editor. In an application like 
 
 [x] done item
 ***
-## Definyning  code
+## Defining  code
 
 > Quoted text.
 > > Quoted quote.
@@ -101,6 +101,10 @@ This is a [link](http://example.com "Title"), which is defined locally
 }
 ```
 
+## It is possible to use pure HTML components in markdown
+<p style="font-size: 10px">This is a small tekst</p>
+
+<p style="color: red">This is red text</p>
 
 
 ![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
