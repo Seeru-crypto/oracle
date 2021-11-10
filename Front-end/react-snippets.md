@@ -1,8 +1,8 @@
 # React snippets!
 
-
 #### Filtering and mapping examle with json data
-```      
+
+```
 cosnt Menubase = [
     {
       label: "hello",
