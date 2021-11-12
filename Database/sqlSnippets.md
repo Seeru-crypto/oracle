@@ -1,4 +1,10 @@
+# SQL snippets
 
+Created SQL snippets
+***
+####  Net_store_SQL
+Creating a Database schema
+```
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS passwords CASCADE;
 DROP TABLE IF EXISTS items CASCADE;
@@ -60,3 +66,40 @@ CREATE INDEX fkIdx_41 ON storage
 (
  user_id
 );
+```
+***
+#### rekursiivne_otsing
+
+```
+WITH RECURSIVE rec (id) as
+   (
+     SELECT storage.id, storage.storage_name, storage.date_added, storage.date_modified, storage.parent_id, storage.user_id
+      from storage where parent_id=1
+     UNION ALL
+     SELECT storage.id, storage.storage_name, storage.date_added, storage.date_modified, storage.parent_id, storage.user_id
+     FROM rec, storage where storage.parent_id = rec.id
+     )
+   SELECT *
+   FROM rec;
+```
+***
+#### Creating viewer user and role:
+```
+CREATE USER PowerBi WITH PASSWORD 'G5xHGVPFFy2XHAam';
+CREATE ROLE viewer;
+GRANT CONNECT ON DATABASE riigibot TO viewer;
+GRANT USAGE ON SCHEMA public to viewer;
+GRANT SELECT ON ALL TABLES IN SCHEMA public to viewer;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON TABLES TO viewer
+GRANT viewer TO powerbi
+```
+***
+#### Creating admin user and role;
+```
+CREATE ROLE admin WITH SUPERUSER;
+CREATE USER admfredoj WITH PASSWORD 'b3xadF254HhTrcYN' CREATEROLE;
+GRANT CONNECT ON DATABASE riigibot TO admin;
+GRANT USAGE ON SCHEMA public to admin;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public to admin;
+GRANT admin to admfredoj;
+```
