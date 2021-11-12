@@ -19,8 +19,12 @@ HDMI, dsplay port, usb-c jne
 
 ### frames per second (FPS)
 
-60, 144, 165
+On mitu korda sekundis ekraanil olevat pilti uuendatakse. 
 
+- 60 Hz on kontori töö standard. Vanasti oli see tavaline, kuid tänapäeval kasutatakse vähem.
+- 144, 165 Hz, jne on puhas mängurite maa ning edasi on küsimus kas arvuti GPU ja CPU suudab toetada kõrgemat kaardi värskendamis sagedust. 
+
+[Monitori FPS test](https://devicetests.com/refresh-rate-test)
 ### Hind
 
 ### pixed density
@@ -53,8 +57,22 @@ The resolutions at 16 : 9 aspect ratio:
 
 ### Mulle hetkel kuuluvad monitorid:
 
--   [msi Optix mag241c](https://www.msi.com/Monitor/Optix-MAG241C) : 144Hz; 23.6"; 1080p; 16:9; 1500R
--   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5; 1440p; 16:9; 1500R
+-   [msi Optix mag241c](https://www.msi.com/Monitor/Optix-MAG241C) :  -----------------  144Hz; 23.6"; 1080p; 16:9; 1500R; 1ms
+-   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
+
+*Töö olev monitor*
+-   [Dell 24 USB-C Monitor - P2419HC](https://www.dell.com/en-us/work/shop/dell-24-usb-c-monitor-p2419hc/apd/210-aqco/monitors-monitor-accessories): 60Hz; 24"; 1080p; 16:9, 8ms; IPS
+### display technology
+
+IPS
+Slightly more expensive, superior color accuracy, very good viewing angles, slower response times
+
+TN panels
+cheaper, fast response times, bad color accuracy, bad viewing angles
+
+VA
+less popular today, 
+
 
 Linked to:
 [[comp]]

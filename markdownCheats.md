@@ -99,7 +99,7 @@ This is a [link](http://example.com 'Title'), which is defined locally
 }
 ```
 
-## It is possible to use pure HTML components in markdown
+## It is possible to use pure HTML tags in markdown
 
 <p style="font-size: 10px">This is a small tekst</p>
 
