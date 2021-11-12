@@ -62,6 +62,9 @@ The resolutions at 16 : 9 aspect ratio:
 
 *Töö olev monitor*
 -   [Dell 24 USB-C Monitor - P2419HC](https://www.dell.com/en-us/work/shop/dell-24-usb-c-monitor-p2419hc/apd/210-aqco/monitors-monitor-accessories): 60Hz; 24"; 1080p; 16:9, 8ms; IPS
+
+*Suur monitor mida proovisin*
+-   [Samsung C34H890](https://displaysolutions.samsung.com/monitor/detail/1131/C34H890): 100Hz; 34"; (3440 x 1440) 1440p; 21:9; 1800R; 4ms, VA paneel, USB ports! 
 ### display technology
 
 IPS
