@@ -19,12 +19,13 @@ HDMI, dsplay port, usb-c jne
 
 ### frames per second (FPS)
 
-On mitu korda sekundis ekraanil olevat pilti uuendatakse. 
+On mitu korda sekundis ekraanil olevat pilti uuendatakse.
 
-- 60 Hz on kontori töö standard. Vanasti oli see tavaline, kuid tänapäeval kasutatakse vähem.
-- 144, 165 Hz, jne on puhas mängurite maa ning edasi on küsimus kas arvuti GPU ja CPU suudab toetada kõrgemat kaardi värskendamis sagedust. 
+-   60 Hz on kontori töö standard. Vanasti oli see tavaline, kuid tänapäeval kasutatakse vähem.
+-   144, 165 Hz, jne on puhas mängurite maa ning edasi on küsimus kas arvuti GPU ja CPU suudab toetada kõrgemat kaardi värskendamis sagedust.
 
 [Monitori FPS test](https://devicetests.com/refresh-rate-test)
+
 ### Hind
 
 ### pixed density
@@ -57,14 +58,22 @@ The resolutions at 16 : 9 aspect ratio:
 
 ### Mulle hetkel kuuluvad monitorid:
 
--   [msi Optix mag241c](https://www.msi.com/Monitor/Optix-MAG241C) :  -----------------  144Hz; 23.6"; 1080p; 16:9; 1500R; 1ms
--   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
+-   [msi Optix mag241c](https://www.msi.com/Monitor/Optix-MAG241C) : ----------------- 144Hz; 23.6"; 1080p; 16:9; 1500R; 1ms
 
-*Töö olev monitor*
+\_Töö olevad monitorid:
+
 -   [Dell 24 USB-C Monitor - P2419HC](https://www.dell.com/en-us/work/shop/dell-24-usb-c-monitor-p2419hc/apd/210-aqco/monitors-monitor-accessories): 60Hz; 24"; 1080p; 16:9, 8ms; IPS
+    -   usb otsad külje peal aga tõsisemaks tööks peab olema väheamlt 2 tükki.
+-   [Samsung C34H890](https://displaysolutions.samsung.com/monitor/detail/1131/C34H890): 100Hz; 34"; (3440 x 1440) 1440p; 21:9; 1800R; 4ms, VA paneel, USB ports!
+    -   Töö tegemiseks väga hea, eriti macBook´ga. Ei ole liiga kõrge ning korraga mahub ekraanile 2-3 vaadet ilusti ära.
+-   [MSI optix mag321curve](https://www.msi.com/Monitor/Optix-MAG321CURV/Specification): 60hz, 31,5"; (3840 x 2160) UHD; 16:9; 1500R; 4mx; VA, USB ports!
+    -   See tundub liiga suur olevat... kuidagi ebameeldiv... i dunno
 
-*Suur monitor mida proovisin*
--   [Samsung C34H890](https://displaysolutions.samsung.com/monitor/detail/1131/C34H890): 100Hz; 34"; (3440 x 1440) 1440p; 21:9; 1800R; 4ms, VA paneel, USB ports! 
+### Monitor mida kaalun osta:
+
+-   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
+-   [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299): 165H<; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
+
 ### display technology
 
 IPS
@@ -74,8 +83,9 @@ TN panels
 cheaper, fast response times, bad color accuracy, bad viewing angles
 
 VA
-less popular today, 
-
+less popular today,
 
 Linked to:
+[A good monitor review site](https://www.rtings.com)
+
 [[comp]]
