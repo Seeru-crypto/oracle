@@ -77,23 +77,42 @@ The resolutions at 16 : 9 aspect ratio:
 -   [MSI optix mag321curve](https://www.msi.com/Monitor/Optix-MAG321CURV/Specification): 60hz, 31,5"; (3840 x 2160) UHD; 16:9; 1500R; 4mx; VA, USB ports!
     -   See tundub liiga suur olevat... kuidagi ebameeldiv... i dunno
 
+### Monitori mõtisklus:
+
+<p style="color: green">Arvestades et mul on juba 2x23" monitori, siis oleks kõige mõisltikum hankida 27" kuna siis</p>
+
+- suuruste vahe olemasolevate monitoridega ei ole liiga massiivne
+- 27" saab hiljem kergesti uuesti kasutada ükskõik millise monitori setup puhul. Sobib nii 32" kui ka widescreenidega'
+- Piiratud ruumi tõttu mõistlikum.
+- Odavam
+- Kuna on väiksem ekraan siis pilt on teravam
+- Kuna ma vahest teen kodus vs kogu aeg kodus siis mul kõige optimaalsemat kontori seadistust ei ole vaja. aga võiks olla mugavam võrreldes praegusega.
+
+
+31,5"/ 32" puhul
+- Saab kasutada hiljem wall display´na kui soovi on
+- Vajab väga suurt lauda kui tahad mitut monitori
+- Suurem kõrgus on harjumatu
+- Kuna on suurem ekraan siis rohkem mahub erkaanile aga antud suuruste puhul ei suuda kogu infot ära hoomata.
+- On palju suurem võrreldes olemasolevate monitoridega, kuna on keset ruumi siis võib ka liiga palju ruumi ära süüa.
+
 ### Monitor mida kaalun osta:
 
--   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
--   [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299): 165H<; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
-
+Mudelid
+- [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
+- [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299) : 165H; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
 ### Pixel types/ display technology
 What it is:The type of the pixel technology used in the display.
 When it matters:Different technologies have different properties, such as contrast, viewing angles, and response times.
 
-IPS
+IPS (Office enviorment)
 Slightly more expensive, superior color accuracy, very good viewing angles, slower response times
 
 TN panels
 cheaper, fast response times, bad color accuracy, bad viewing angles
 
-VA
-less popular today,
+VA:
+
 
 Linked to:
 [A good monitor review site](https://www.rtings.com)
