@@ -54,6 +54,9 @@ React is a javascrpt library, used for front-end development
 
 [Use React and Spring Boot to Build a Simple CRUD App](https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot)
 
+
+
+[useful hooks in react](https://reactjs.org/docs/hooks-reference.html#usememo)
 #### links
 
 [[front-end]]
