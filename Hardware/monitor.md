@@ -18,9 +18,9 @@ Tollides 23", 31" jne
 HDMI, dsplay port, usb-c jne
 
 ### frames per second (FPS)
+
 What it is:The maximum supported refresh rate of the monitor. This includes the factory overclock that comes built-in with many gaming monitors.
 When it matters:For fast-paced content, such as FPS or racing games.
-
 
 On mitu korda sekundis ekraanil olevat pilti uuendatakse.
 
@@ -30,10 +30,12 @@ On mitu korda sekundis ekraanil olevat pilti uuendatakse.
 [Monitori FPS test](https://devicetests.com/refresh-rate-test)
 
 ##### Variable refresh rate
+
 What it is:Feature that allows the monitor to synchronize its refresh rate with the input device's output and reduces stuttering and screen tearing.
 When it matters:Almost every use, but is most noticeable in gaming where constant fluctuation in framerate causes distracting artifacts.
 
 FreeSync
+
 ### Hind
 
 ### pixed density
@@ -81,27 +83,30 @@ The resolutions at 16 : 9 aspect ratio:
 
 <p style="color: green">Arvestades et mul on juba 2x23" monitori, siis oleks kõige mõisltikum hankida 27" kuna siis</p>
 
-- suuruste vahe olemasolevate monitoridega ei ole liiga massiivne
-- 27" saab hiljem kergesti uuesti kasutada ükskõik millise monitori setup puhul. Sobib nii 32" kui ka widescreenidega'
-- Piiratud ruumi tõttu mõistlikum.
-- Odavam
-- Kuna on väiksem ekraan siis pilt on teravam
-- Kuna ma vahest teen kodus vs kogu aeg kodus siis mul kõige optimaalsemat kontori seadistust ei ole vaja. aga võiks olla mugavam võrreldes praegusega.
-
+-   suuruste vahe olemasolevate monitoridega ei ole liiga massiivne
+-   27" saab hiljem kergesti uuesti kasutada ükskõik millise monitori setup puhul. Sobib nii 32" kui ka widescreenidega'
+-   Piiratud ruumi tõttu mõistlikum.
+-   Odavam
+-   Kuna on väiksem ekraan siis pilt on teravam
+-   Kuna ma vahest teen kodus vs kogu aeg kodus siis mul kõige optimaalsemat kontori seadistust ei ole vaja. aga võiks olla mugavam võrreldes praegusega.
 
 31,5"/ 32" puhul
-- Saab kasutada hiljem wall display´na kui soovi on
-- Vajab väga suurt lauda kui tahad mitut monitori
-- Suurem kõrgus on harjumatu
-- Kuna on suurem ekraan siis rohkem mahub erkaanile aga antud suuruste puhul ei suuda kogu infot ära hoomata.
-- On palju suurem võrreldes olemasolevate monitoridega, kuna on keset ruumi siis võib ka liiga palju ruumi ära süüa.
+
+-   Saab kasutada hiljem wall display´na kui soovi on
+-   Vajab väga suurt lauda kui tahad mitut monitori
+-   Suurem kõrgus on harjumatu
+-   Kuna on suurem ekraan siis rohkem mahub erkaanile aga antud suuruste puhul ei suuda kogu infot ära hoomata.
+-   On palju suurem võrreldes olemasolevate monitoridega, kuna on keset ruumi siis võib ka liiga palju ruumi ära süüa.
 
 ### Monitor mida kaalun osta:
 
 Mudelid
-- [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
-- [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299) : 165H; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
+
+-   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
+-   [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299) : 165H; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
+
 ### Pixel types/ display technology
+
 What it is:The type of the pixel technology used in the display.
 When it matters:Different technologies have different properties, such as contrast, viewing angles, and response times.
 
@@ -113,13 +118,9 @@ cheaper, fast response times, bad color accuracy, bad viewing angles
 
 VA:
 
-
 Linked to:
 [A good monitor review site](https://www.rtings.com)
 
-
-
 [a mic](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Heliseadmed-Mikrofonid/Hama-Microphone-IC-USB-Stream-460111)
-
 
 [[comp]]
