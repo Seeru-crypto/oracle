@@ -39,25 +39,83 @@ React is a javascrpt library, used for front-end development
 
 ## Advanced concepts
 
-[spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-
 [redux essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 
 [promises & chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 
-[Lambda functions](https://www.w3schools.com/java/java_lambda.asp)
-
-[filtering arrays](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples)
-
-// Todo
-.filter() && .map()
-
 [Use React and Spring Boot to Build a Simple CRUD App](https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot)
 
 
-
+### Hooks & custom hooks
 [useful hooks in react](https://reactjs.org/docs/hooks-reference.html#usememo)
-#### links
+
+
+## Useful functions
+
+### console logging
+#### To console log multiple objects
+```
+const foo = {name: "tere", age: 30}
+const bar = {name: "bar", age: 12}
+console.log({ foo, bar })
+```
+#### To track time of operations in browser
+```
+console.time('looper')
+code...
+console.timeEnd('looper')
+```
+### Template literals
+You can add variables inside a string. Makes reading code easier.
+```
+const bar = {name: "bar", age: 12}
+const newLine = person name is ${name} and he is ${age} years old
+```
+
+### spread syntax
+You can easily combine different arrays and objects into a single entity
+```
+const pikachu = {name: "pikachu"};
+const stats = {hp:40, attack: 60};
+```
+to create a new object to merge them
+
+`const newObj = {...pikachu, ...stats};`
+
+the right side objects have priority
+OR
+
+You can copy the original object and change/ add 1 extra parameter.
+
+`const newObj = {...pikachu, hp:50};`
+
+[spread syntax example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+
+### Reduce
+Sums up all the values in the given array
+```
+const oders = [400, 500, 200];
+const total = orders.reduce((accumulatedValue, currentValue) => accumulatedValue + currentValue )
+```
+### Map
+To change all values by 10 precent  in the array&
+
+`const withTax = orders.map(order => order * 1.1)`
+
+### filter
+to get values that are over 300
+
+`const filteredList = orders.filter(order => order > 300);`
+
+
+[Using filtering and mapping example](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples)
+
+
+##### example projects:
+
+
 
 [[front-end]]
+
 [[lintingTools]]

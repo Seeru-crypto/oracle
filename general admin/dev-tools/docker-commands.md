@@ -5,17 +5,32 @@
 
 ***
 ## Naming
- Docker images are slash separated names, for example "TARGET_IMAGE" or "SOURCE_IMAGE"
+ Docker image names are slash separated, for example
+ 
+"TARGET_IMAGE" / "SOURCE_IMAGE"
 
-Docker container names are also slash separated, lower case, for example "docker_container". 
+Docker container names are also slash separated, but in **lower case**, for example 
+
+"docker_container". 
 
 ***
 
 ### Create a docker image
-To build a new image, cd to the Dockerfile location and enter the command: docker build -t <ImageName>:<Version> .
--t flags our newly created image with a identifier tag for easier comprehension
-The . at the end tells docker where our Dockerfile is located . means in the same directory, '..' means in the parent directory ect
-The space after the : is reserved for versioning, so V1, V2 ect
+There are 2 ways to create docker images, first is via your custom Dockerfile or docker.compose and the other is directly pulling a default image
+from docker hub. 
+
+To build a new image from a dockerfile: navigate to the Dockerfile location and enter the command:
+
+`docker build -t <ImageName>:<Version> .`
+- -t flags our newly created image with a identifier tag for easier comprehension
+- . at the end tells docker where our Dockerfile is located . means in the same directory, '..' means in the parent directory
+- The space after the : is reserved for versioning, so V1, V2 ect
+
+OR
+
+pull a default image directly from docker hub, for example:
+
+`docker pull mongo`
 
 ***
 
