@@ -2,7 +2,7 @@
 
 #### Filtering and mapping examle with json data
 
-```
+```javascript
 cosnt Menubase = [
     {
       label: "hello",

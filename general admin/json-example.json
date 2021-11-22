@@ -5,6 +5,7 @@
   },
   "Elisa": {
     "age": 10,
-    "hairColor": "blonde"
+    "hairColor": "blonde",
+    "toys": [1,2,3]
   }
 }

@@ -32,7 +32,7 @@ testing playground chrome plugin can be used to easily create front-end unit tes
 Example of eslint JSON config file
 
 
-```
+```json
 {
     "root": true,
     "extends": [
@@ -59,7 +59,7 @@ Example of eslint JSON config file
 
 Example of eslint js config file
 
-```
+```js
 module.exports = {
   root: true,
   parser: '@typescript-eslint/parser',
@@ -118,7 +118,7 @@ coverage
 [config file options](https://prettier.io/docs/en/options.html)
 
 Prettier config example. '.prettierrc.json'
-```
+```json
 {
   "trailingComma": "es5",
   "tabWidth": 4,

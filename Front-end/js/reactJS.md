@@ -54,27 +54,27 @@ React is a javascrpt library, used for front-end development
 
 ### console logging
 #### To console log multiple objects
-```
+```javascript
 const foo = {name: "tere", age: 30}
 const bar = {name: "bar", age: 12}
 console.log({ foo, bar })
 ```
 #### To track time of operations in browser
-```
+```javascript
 console.time('looper')
-code...
+var code = ""
 console.timeEnd('looper')
 ```
 ### Template literals
 You can add variables inside a string. Makes reading code easier.
-```
+```javascript
 const bar = {name: "bar", age: 12}
-const newLine = person name is ${name} and he is ${age} years old
+const newLine = `person name is ${name} and he is ${age} years old`
 ```
 
 ### spread syntax
 You can easily combine different arrays and objects into a single entity
-```
+```javascript
 const pikachu = {name: "pikachu"};
 const stats = {hp:40, attack: 60};
 ```
@@ -94,7 +94,7 @@ You can copy the original object and change/ add 1 extra parameter.
 
 ### Reduce
 Sums up all the values in the given array
-```
+```javascript
 const oders = [400, 500, 200];
 const total = orders.reduce((accumulatedValue, currentValue) => accumulatedValue + currentValue )
 ```

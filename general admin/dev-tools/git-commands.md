@@ -1,7 +1,7 @@
 # Git commands
 
-Git is used for project versioning and syncronizing code between dev team members.
-
+Git is version handing software which is used for project versioning and syncronizing code between dev team members.
+The most popular platforms for it are github, gitlab, bitbucket, etc. 
 
 
 ## setup
@@ -9,6 +9,13 @@ Git is used for project versioning and syncronizing code between dev team member
   2. Setup git in your favorite IDE
 
 ## Recurring commands
+```git
+git add -A
+git commit
+git push
+```
+
+#### To initiate a new repo
 
 #### checkout commands
 
@@ -24,15 +31,6 @@ Git is used for project versioning and syncronizing code between dev team member
     
     - git branch -l
         - List all git branches
-
-
-
-
-
-git commit
-
-
-git push
 
 
 ## Exotic commands

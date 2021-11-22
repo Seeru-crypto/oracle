@@ -69,6 +69,7 @@ The resolutions at 16 : 9 aspect ratio:
 ### Mulle hetkel kuuluvad monitorid:
 
 -   [msi Optix mag241c](https://www.msi.com/Monitor/Optix-MAG241C) : ----------------- 144Hz; 23.6"; 1080p; 16:9; 1500R; 1ms
+-   [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299) : 165H; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
 
 ### Tööl olevad monitorid:
 
@@ -103,7 +104,6 @@ The resolutions at 16 : 9 aspect ratio:
 Mudelid
 
 -   [Asus TUF Gaming VG32VQ1BR](https://www.asus.com/Displays-Desktops/Monitors/TUF-Gaming/TUF-Gaming-VG32VQ1BR/) : 165Hz; 31.5"; 1440p; 16:9; 1500R; 1ms
--   [ASUS TUF VG27WQ1B](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Monitorid-kuni-28-diagonaal/ASUS-TUF-VG27W1B-27-VA-2K-HD-165Hz-1ms-Freesync-HDR10-Vesa-Kolarid-535299) : 165H; 27"; 1440p; 16:9; 1500R; VA; 1ms; sisseehitatud kõlarid.
 
 ### Pixel types/ display technology
 
