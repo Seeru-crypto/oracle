@@ -1,14 +1,15 @@
 # Git commands
 
 Git is version handing software which is used for project versioning and syncronizing code between dev team members.
-The most popular platforms for it are github, gitlab, bitbucket, etc. 
-
+The most popular platforms for it are github, gitlab, bitbucket, etc.
 
 ## setup
-  1. download git software base from [link](https://git-scm.com/downloads)
-  2. Setup git in your favorite IDE
+
+1. download git software base from [link](https://git-scm.com/downloads)
+2. Setup git in your favorite IDE
 
 ## Recurring commands
+
 ```git
 git add -A
 git commit
@@ -28,17 +29,24 @@ git push
 
     - git merge <branch>
         - Merge current branch content with the specified branch content
-    
+
     - git branch -l
         - List all git branches
 
-
 ## Exotic commands
 
+#### to update files to be .gitignore complient
 
+**PS: Make sure to save & commit all work beforehand!!!**
+´´´
+git rm -rf --cached .
+git add .
+´´´
 
 ### Git ignore example
+
 .gitignore
+
 ```
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
@@ -67,5 +75,5 @@ yarn-error.log*
 ```
 
 #### Links:
-- [[general-admin]]
 
+-   [[general-admin]]
