@@ -53,7 +53,7 @@ The resolutions at 16 : 9 aspect ratio:
         *4K resolution refers to a horizontal display resolution of
 
     approximately 4,000 pixels while the 2160p refers to the number of horizontal pixels\*
-
+*
         Arvestades tänapäeva standardeid, peaks iga uus monitor olema vähemalt 1440p
 
 ### display suhe
@@ -81,8 +81,6 @@ The resolutions at 16 : 9 aspect ratio:
     -   See tundub liiga suur olevat... kuidagi ebameeldiv... i dunno
 
 ### Monitori mõtisklus:
-
-<p style="color: green">Arvestades et mul on juba 2x23" monitori, siis oleks kõige mõisltikum hankida 27" kuna siis</p>
 
 -   suuruste vahe olemasolevate monitoridega ei ole liiga massiivne
 -   27" saab hiljem kergesti uuesti kasutada ükskõik millise monitori setup puhul. Sobib nii 32" kui ka widescreenidega'
@@ -120,7 +118,5 @@ VA:
 
 Linked to:
 [A good monitor review site](https://www.rtings.com)
-
-[a mic](https://arvutitark.ee/est/tootekataloog/Arvutid-ja-lisad-Heliseadmed-Mikrofonid/Hama-Microphone-IC-USB-Stream-460111)
 
 [[comp]]

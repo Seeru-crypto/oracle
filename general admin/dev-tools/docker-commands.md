@@ -49,8 +49,6 @@ pull a default image directly from docker hub, for example:
         - run a specific version of a image.
 
 
-
-
 ***
 ### View docker content:
 
@@ -98,6 +96,9 @@ Using Compose is basically a three-step process:
 
 - Run docker compose up and the Docker compose command starts and runs your entire app. You can alternatively run docker-compose up using the docker-compose binary.
 
+Running a docker compose command with a specific compose file
+`docker-compose -f test-widget-bundles.yml up`
+
 A docker-compose.yml looks like this:
 
 ```
@@ -121,7 +122,7 @@ logvolume01: {}
 
 ***
 
-#### Links:
+#### Links:5
 - [[general-admin]]
 - [[Dockerfile]]
 - [[docker-compose.yml]]

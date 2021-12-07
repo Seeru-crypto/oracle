@@ -26,16 +26,14 @@ React is a javascrpt library, used for front-end development
 ## Suggestions
 
 -   It is good practice to use some sort of linter software to ensure clean code
--   Avoid createing large components, since it will decrease their re-usability
+-   Avoid creating large components, since it will decrease their re-usability
 
 ## useful dependencies
 
 -   [marked](https://www.npmjs.com/package/marked)
 -   axios
--   react-bootstrap
--   prime-react
+-   CSS Framework:  react-bootstrap / Primereact / <ins>Semantics</ins> 
 -   json-server
--   <ins>Semantics</ins>
 
 ## Advanced concepts
 
@@ -69,36 +67,48 @@ console.timeEnd('looper')
 You can add variables inside a string. Makes reading code easier.
 ```javascript
 const bar = {name: "bar", age: 12}
-const newLine = `person name is ${name} and he is ${age} years old`
+const newLine = `person name is ${bar.name} and he is ${bar.age} years old`
 ```
 
 ### spread syntax
-You can easily combine different arrays and objects into a single entity
+You can easily combine different arrays and objects into a single entity.
+The priority will be on the rightmost objects.
 ```javascript
 const pikachu = {name: "pikachu"};
 const stats = {hp:40, attack: 60};
 ```
-to create a new object to merge them
+To create a new merged object
 
 `const newObj = {...pikachu, ...stats};`
 
 the right side objects have priority
 OR
 
-You can copy the original object and change/ add 1 extra parameter.
+You can change the original objects existing value.
 
 `const newObj = {...pikachu, hp:50};`
+
+OR 
+
+You can add a new value by following the same syntax.
+
+`const newObj = {...pikachu, color:'yellow'};`
 
 [spread syntax example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 
 ### Reduce
+Can be used for advanced mathematical equations. It saves both the current value and saved total value. 
+
+For example: 
 Sums up all the values in the given array
 ```javascript
 const oders = [400, 500, 200];
 const total = orders.reduce((accumulatedValue, currentValue) => accumulatedValue + currentValue )
 ```
 ### Map
+Creates a new Array by changing all given values.
+
 To change all values by 10 precent  in the array&
 
 `const withTax = orders.map(order => order * 1.1)`
@@ -110,6 +120,11 @@ to get values that are over 300
 
 
 [Using filtering and mapping example](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples)
+
+
+### Promise
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
 
 
 ##### example projects:
