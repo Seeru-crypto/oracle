@@ -1,14 +1,65 @@
 # Sleeping bags
 
+Usually sleeping bags can be categorized into winter and 3 season bags, since the temp differences are so high.
+When sleeping outdoors, the coldness will come from 2 general ways: from the ground and from the air. The sleeping-mat takes care of the ground and sleepingbag the air. 
+
+
+*"You sweat, you die", some guy on the internet*
+
+## General design
+
+1. Goose feather (GF) or synthetic bot h have pros and cons
+    1. GF
+        1. Positives
+            1. is lighter
+            2. retains warmness more over long period of time
+        2. Negatives
+            1. more expensice 2-3x
+            2. When wet is useless,
+            3. When twisting at night might move feathers away from back side, making it cold
+    2. Synthetic
+        1. Positives
+            1. is 2x cheaper,
+            2. is not as much affected by the wetness/ huminity
+        2. Negatives
+            1. is heavier around 1.5-2x,
+            2. When it looses its bufyness/ airyness then impossible to get it back.
+
+## Important notes!
+
+- DO NOT store sleeping bags in compress bags, because that will shorten their lifespan and make them less efficent at
+  retaining heat. 
+- When sleeping in a bag, consider sleeping in clean clothes or using a inner sheet, to keep the bag
+  clean.
+- When picking a bag make sure to get one that is generally your size, if you get a larger one then during the night it
+  will create cold air pockets which will be unpleasent and cools you down
+- During very cold nights consider using urine bottle, beacause holding it in loses body heat and going outside is
+  unpleasent. Make sure you tighten the lid after using it...
+- to pre-warm a bag you can warm water and put a warm water bottle, inside the bag. (between your legs, due to artery
+  position) OR do light excercice to warm your body up and STOP before you start sweating.
+- when camping you can not use the compress bag and just stuff the sleeping bag in you backpack. Utilizes more space,
+  and is a bit more airy + easier to take out and put in.
+- You can combine sleeping bags to raise the comfort zone, wrapping one around the other + when going to sleep you can
+  put your dry jacket inside the bag so that it will keep you warmer and wont roll off the bag.
+- Before going to sleep replace your socks with dry/ clean ones, it will keep them warmer. 
+If you have thicker "sleeping socks", then that is preferred. because hands and toes are the first things to get cold
+- For a more comfortable sleep eat before going to sleep, because while your body is digesting the food, it will generate more heat, making sleep more comfortable, fattier the food the better, 
+because it will take more time for it to break down. 
+
+## Heat ratings
+
+Sleeping bags either have a 3 or 4 number heat rating system, depending on manufacturer. 
+
+1. For example  (-4; -1; 1; 5) means you will survice at -4, men will be comfortable at -1 women at 1 and after 5 you
+   will begin to sweat.
+2. (-4; 0; 5) same extremiums but 0 is the general comfort zone
+
+**NB** When looking for a bag, you can add +5 to all the numbers and you will get the real result. Because those numbers are achieved in perfect conditions.  
 
 ### Carinthia Defence 1
-Good weight ratio
-You dont have to worry about it getting wet
-Good price 100-200
-comfort limit at +3; survive -10
-It can be combined with other Defence 3, 4 bags
-raising the temp limit
-very durable
+
+Good weight ratio You dont have to worry about it getting wet Good price 100-200 comfort limit at +3; survive -10 It can
+be combined with other Defence 3, 4 bags raising the temp limit very durable
 good zippers
 has built in heat reflection + glof material,
 sizes, meidum up to ppl 6'1" and large up to 6'7"
